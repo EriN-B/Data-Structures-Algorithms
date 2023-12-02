@@ -1,0 +1,15 @@
+{
+  "name": "data-structures-algorithms",
+  "version": "1.0.0",
+  "description": "My own implementation of various Data Structures and Algorithms in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Typescript", "DataStructures", "Algorithms"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
