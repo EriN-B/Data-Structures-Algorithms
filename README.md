@@ -1,6 +1,6 @@
 # Algorithms and Data Structures in TypeScript
 
-This repository contains my personal implementations of various algorithms and data structures, written in TypeScript. It also includes my solutions to selected problems from LeetCode. The primary goal of this project is to enhance my problem-solving skills and understanding of algorithms and data structures, while also getting proficient in TypeScript.
+This repository contains my personal implementations of various algorithms and data structures, written in TypeScript. It also includes my solutions to selected problems from LeetCode.
 
 ## Contents
 
